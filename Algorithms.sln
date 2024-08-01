@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sorting_Algorithms", "Sorti
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Search_Algorithms", "Search_Algorithms\Search_Algorithms.csproj", "{86ECAF52-7BE4-4F14-AF95-E5A4EAE4D009}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Solutions_of_Alghorithmic_Problems", "SolutionsofAlghorithmicProblems\Solutions_of_Alghorithmic_Problems.csproj", "{752BC8C6-0578-442B-99A8-59234D93E0DC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Solutions_of_Alghorithmic_Problems", "Solutions_of_Alghorithmic_Problems\Solutions_of_Alghorithmic_Problems.csproj", "{752BC8C6-0578-442B-99A8-59234D93E0DC}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Famous_Alghorithmic_Solutions", "Famous_Alghorithmic_Solutions\Famous_Alghorithmic_Solutions.csproj", "{94241EE0-5B69-473E-9029-22C1B8E9ABE7}"
 EndProject
